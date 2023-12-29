@@ -1,2 +1,2 @@
 # SynthHarmony
-AI Lip Sync Edito
+AI Lip Sync Editor
