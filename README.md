@@ -28,3 +28,6 @@ python infer.py --checkpoint_path <ckpt> --face <video.mp4> --audio <audio.wav>
 - Processing on CPUs can be time consuming.
 - GAN version is slower but haves better quality.
 - Non GAN version is better at Lip Syncing but quality losses maybe seen.
+
+
+Drive links of results can be explored [here](https://drive.google.com/drive/folders/1AWaJXooF3seizCwurG-oMh_qwWeiymZf?usp=sharing)
